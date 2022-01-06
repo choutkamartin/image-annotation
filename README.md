@@ -3,4 +3,4 @@ A one-page showcase of an image annotation tool using Hooks and <svg> HTML eleme
 
 It's currently possible to label objects as polygons only. It's easy to implement boxes or lines, though.
 
-![aaH20KTYAg](https://user-images.githubusercontent.com/45522695/148428729-e318a5a1-5f1a-45d8-b60d-5d3a3f66394a.gif)
+![irPywI4ZV5](https://user-images.githubusercontent.com/45522695/148429341-0202663b-4363-4ecf-b11b-a7d775c4a021.gif)
